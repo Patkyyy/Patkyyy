@@ -1,10 +1,10 @@
-# ✨ Patcas Rares 🎯
+# Patcas Rares 
 
-`Software Engineering Student · Gym Enthusiast · Rebuilding Myself Day by Day 🔥`
+`Software Engineering Student · Gym Enthusiast · Rebuilding Myself Day by Day`
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m a Software Engineering student at UTCN, passionate about building clean, efficient software and constantly improving my skills.  
 I’m disciplined, ambitious, and highly driven — when I commit to something, I follow through until it’s done.  
